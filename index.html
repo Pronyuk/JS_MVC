@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <!--<script src="scripts/main.js"></script>-->
+    <!--<script src="scripts/main2.js"></script>-->
+    <link href="css/style.css" rel="stylesheet" />
+
+    <title>AJAX request</title>
+</head>
+<body>
+    <div id="wrapper">
+        <!--<button id="getData">Connect to DB</button>-->
+        <div id="getData" class="container-fluid">
+            <div class="row">
+                <div class="col-md-8">
+                    <table id="data" class="table table-hover"></table>
+                </div>
+                <div class="col-md-4">
+                    <form>
+                        <div class="form-group">
+                            <label for="fullName">Full name</label>
+                            <input type="text" class="form-control" id="fullName">
+                        </div>
+                        <div class="form-group">
+                            <label for="department">Department</label>
+                            <input type="text" class="form-control" id="department">
+                        </div>
+                        <button type="button" id="btnCreate" class="btn btn-default">Create</button>
+                        <button type="button" id="btnUpdate" class="btn btn-default">Update</button>
+                        <button type="button" id="btnDelete" class="btn btn-default">Delete</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="scripts/Model/Person.js"></script>
+    <script src="scripts/eventListener.js"></script>
+    <script src="scripts/Controller/controller.js"></script>
+    <script src="scripts/Model/model.js"></script>
+    <script src="scripts/View/view.js"></script>
+    <script src="scripts/main2.js"></script>
+</body>
+</html>

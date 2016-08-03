@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ASUS K50_2_0",
+    "photo": "http://viocom.com.ua/sites/default/files/imagecache/product_full/asus_k50_2_0.jpg",
+    "price":  10332
+  },
+  {
+    "name": "Sony VAIO VGN-FE11SR",
+    "photo": "http://pics.rbc.ru/img/cnews/2006/06/30/so2.jpg",
+    "price":  19300
+  },
+  {
+    "name": "HP 250 G2",
+    "photo": "http://vz.ua/uploads/news/2015/12/29/7c4cce784ebe77cedf94d772e0f1cc3a6e1c8677.png",
+    "price":  15600
+  },
+  {
+    "name": "ASUS E502SA",
+    "photo": "http://www.foxtrot.com.ua/files/MediumImages/6246993/0.jpg",
+    "price":  14560
+  },
+  {
+    "name": "Samsung 300V5A",
+    "photo": "http://www.3dnews.ru/assets/external/illustrations/2012/03/12/625906/main_1.jpg",
+    "price":  12250
+  },
+  {
+    "name": "Acer Extensa EX2519-C4TE",
+    "photo": "http://static.svyaznoy.ru/upload/iblock/ba8/ex_ex2519-_black_nonglare_acer_wp_01.jpg",
+    "price":  17000
+  },
+  {
+    "name": "Acer Aspire E",
+    "photo": "http://s.4pda.to/vePhGDQx5DQVXcoTkifOfm4ECiGez2VR7yppUz2HcNwN9haWZ7AZAP94bwDEMfY7aQqhhAlMADxmRZGwrvPC19DCsK0uKAJgMsBraiMMhsz2nInz2z2UjWFcpbXz2ntI.jpg",
+    "price":  14800
+  },
+  {
+    "name": "Toshiba TF235",
+    "photo": "http://fdlx.com/wp-content/uploads/toshiba-prekrashhaet-prodazhi-noutbukov-v-es.jpg",
+    "price":  11350
+  }
+]
